@@ -1,3 +1,3 @@
-function sumUpTo() {}
+function sumUpTo(n) {}
 
 module.exports = sumUpTo;
